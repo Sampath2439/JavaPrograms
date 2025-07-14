@@ -15,5 +15,7 @@ public class ActualStudent {
         System.out.println("Total marks : "+  s2.calculateTotal());
         System.out.println("Average marks : " +  s2.calculateAverage());
 
+        // class : which carrys common propreties and behaviour- virtual encapsulatio of properties and behavior
+        // object : it is an individual group of elements - physicial encpasulation of properties and behavior.
     }
 }
